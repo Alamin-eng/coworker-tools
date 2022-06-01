@@ -22,5 +22,7 @@ if (command === "list") {
 
 function runListCommand() {
   // Replace this with your implementation
+
   members.forEach(eachMembers => console.log(eachMembers))
+
 }
