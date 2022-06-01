@@ -22,6 +22,5 @@ if (command === "list") {
 
 function runListCommand() {
   // Replace this with your implementation
-  // console.log("Store member data issue");
   members.forEach(eachMembers => console.log(eachMembers))
 }
